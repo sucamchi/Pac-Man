@@ -1,12 +1,14 @@
 *This project has been created as part of the 42 curriculum by scamlett, lupalomi.*
 
-# Pac-Man 42
+# Pac-Man
 
 ## Description
 
 ## Instructions
 
 ### Requirements
+- Python 3.10 or higher
+- uv (Python package manager)
 
 ### Installation
 
